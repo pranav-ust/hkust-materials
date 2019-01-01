@@ -1,0 +1,21 @@
+\begin{thebibliography}{}
+
+\bibitem[Dahl et~al., 2013]{dahl2013improving}
+Dahl, G.~E., Sainath, T.~N., and Hinton, G.~E. (2013).
+\newblock Improving deep neural networks for lvcsr using rectified linear units
+  and dropout.
+\newblock In {\em Acoustics, Speech and Signal Processing (ICASSP), 2013 IEEE
+  International Conference on}, pages 8609--8613. IEEE.
+
+\bibitem[Kingma and Ba, 2014]{kingma2014adam}
+Kingma, D. and Ba, J. (2014).
+\newblock Adam: A method for stochastic optimization.
+\newblock {\em arXiv preprint arXiv:1412.6980}.
+
+\bibitem[Paszke et~al., ]{paszkepytorch}
+Paszke, A., Chintala, S., Collobert, R., Kavukcuoglu, K., Farabet, C., Bengio,
+  S., Melvin, I., Weston, J., and Mariethoz, J.
+\newblock Pytorch: Tensors and dynamic neural networks in python with strong
+  gpu acceleration, may 2017.
+
+\end{thebibliography}
