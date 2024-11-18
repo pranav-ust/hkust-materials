@@ -8,7 +8,6 @@ Assignments and Projects I did in HKUST (whatever I could find in my laptop). I 
 2. [My solution to the exam](https://github.com/pranav-ust/hkust-materials/blob/master/5001-exam.pdf)
 3. [My course project](https://github.com/pranav-ust/transfer)
 
-Apparently, after receiving near-perfect scores in my projects and exams, I received a C+ in this course. I tried to appeal but received zero explanations. Kindly see the materials yourself and evaluate whether I was worthy to get C+ in an entry-level data science course.
 
 ## 5002: Data Mining
 
@@ -39,8 +38,6 @@ Definitely my favorite subject in this entire course. This class definitely help
 2. [Assignment 2](https://github.com/pranav-ust/hkust-materials/blob/master/5008-A2.pdf)
 
 ## 6000B: Deep Learning
-
-Unfortunately, this was most disorganized class that I have ever taken. I hope future iterations of this course would take students' complaints into consideration. In retrospective, I should have opted for a different elective as I could have learned DL better by myself or through online classes.
 
 1. [Project 1: Regression in Pytorch](https://github.com/pranav-ust/hkust-materials/tree/master/6000B-prediction), topped the leaderboard
 2. [Project 2: Transfer Learning](https://github.com/pranav-ust/hkust-materials/tree/master/6000B-flower-Image-Classifier), topped the leaderboard
